@@ -1,2 +1,2 @@
-# graphics_project_and_labs_2D_3D
+# Graphics project and labs (2D and 3D)
     Python : Tkinter
